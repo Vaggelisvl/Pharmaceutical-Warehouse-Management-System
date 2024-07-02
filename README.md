@@ -1,6 +1,7 @@
 # System Overview
 
-The primary purpose of the developed system is to manage the operations of a pharmaceutical warehouse. The user categories of the system are:
+The primary purpose of the developed system is to manage the operations of a pharmaceutical warehouse. <br>
+The user categories of the system are:
 
 ### Warehouse Department Employees
 
